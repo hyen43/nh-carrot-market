@@ -6,4 +6,10 @@
 
 ### 22.03.17 
 * [1] tailwind css 개념잡기 
-* [2] tailwind css로 예제 만들기 
+* [2] tailwind css로 예제 만들기
+
+### 22.06.04
+* [x] tailwind css test drive part three
+
+### 22.06.14
+* [x] tailwind css modifiers_hover,active,focus
